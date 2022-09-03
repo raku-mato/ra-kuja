@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ra-kuja 
+- 👋 Hi, I’m Rakhmat Kurnia Sunarja, you can call me Rakhmat or Mato
 - 🌱 I’m currently learning about data science
 
 <!---
